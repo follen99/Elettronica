@@ -10,17 +10,16 @@ I circuiti simulati sono apribili tramite il programma **CircuitJS** che è un p
 ## Diodi
 
 - [Precision Rectifier](https://en.wikipedia.org/wiki/Precision_rectifier) (superdiodo)
-- 
 
 ### Transitori MOSFET
 
-- [Video Youtube sui MOSFET (italiano)]: https://www.youtube.com/watch?v=dGfmUm6YEH0
+- [Video YouTube sui MOSFET (IT)](https://www.youtube.com/watch?v=dGfmUm6YEH0)
+- [Playlist MOSFET e JFET](https://www.youtube.com/playlist?list=PLwjK_iyK4LLC-tRT_Uml3T-ifdcmuykjV)
+- [come usare un MOSFET come switch](https://www.youtube.com/watch?v=UJkHL-6mn8s&amp;list=PLwjK_iyK4LLC-tRT_Uml3T-ifdcmuykjV&amp;index=13)
 
-- [Playlist MOSFET e JFET]: https://www.youtube.com/playlist?list=PLwjK_iyK4LLC-tRT_Uml3T-ifdcmuykjV
 
-- [Come usare un MOSFET come switch]: https://www.youtube.com/watch?v=UJkHL-6mn8s&amp;list=PLwjK_iyK4LLC-tRT_Uml3T-ifdcmuykjV&amp;index=13
 
-  
+
 
 
 
